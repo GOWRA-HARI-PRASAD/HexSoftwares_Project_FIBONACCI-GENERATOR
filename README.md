@@ -1,4 +1,4 @@
-### The "1, 1" Fibonacci Generator
+#HexSoftwares_Project_FIBONACCI-GENERATOR
 
 This program generates a Fibonacci-like sequence that starts with 1 and 1. While the classic Fibonacci sequence begins with 0, 1, your code uses the same logic to create a series that is shifted by one number.
 
@@ -72,4 +72,4 @@ Here are a few examples to show how the program behaves with different inputs:
 
 ### Conclusion
 
-Your code is an effective **Fibonacci generator** that produces a sequence starting with `1, 1`. It is highly efficient for its purpose, using a simple loop and variable updates without the need for a list. This approach is excellent for understanding how to generate a series iteratively and is a great solution for this problem.# HexSoftwares_Project_FIBONACCI-GENERATOR
+Your code is an effective **Fibonacci generator** that produces a sequence starting with `1, 1`. It is highly efficient for its purpose, using a simple loop and variable updates without the need for a list. This approach is excellent for understanding how to generate a series iteratively and is a great solution for this problem.
